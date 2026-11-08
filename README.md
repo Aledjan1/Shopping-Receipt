@@ -4,6 +4,8 @@ A simple and interactive shopping receipt application built with HTML, CSS, and 
 
 This project allows users to add product, calculate their costs, remove idividual items, and manage a shopping receipt.
 
+My project link: https://aledjan1.github.io/Shopping-Receipt/
+
 ## Features
 
 - Add product with a name, price, and quantity.
